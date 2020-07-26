@@ -1,0 +1,103 @@
+body {
+  background-color: black;
+  margin: 0;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 400;
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+}
+
+.top-container {
+  background-color: #191C24;
+  color: white;
+  text-align: center;
+  font-family: 'Dosis';
+  position: relative;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+.heading {
+  margin: 0 auto 0 auto;
+  font-size: 6rem;
+  position: relative;
+  top: 160px;
+  font-weight: 500;
+}
+
+.subtitle {
+  margin: 0 auto 0 auto;
+  font-size: 2.97rem;
+  display: inline-block;
+  color: rgb(108, 114, 147);
+  position: relative;
+  top: 170px;
+  font-weight: 400;
+  padding-bottom: 30px;
+}
+
+.superb {
+  color: #0090E7;
+  position: relative;
+  top: 0;
+}
+
+.frontImg {
+  padding-top: 200px;
+}
+
+.middle-container {
+  background-color: #191C24;
+  padding: 60px;
+  position: relative;
+  bottom: 150px;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+.profile {
+  border: solid black 5px;
+  border-radius: 4px;
+  background-color: #12151E;
+  padding: 50px;
+  margin-bottom: 30px;
+}
+
+.skills {
+  border: solid black 5px;
+  border-radius: 4px;
+  background-color: #12151E;
+}
+
+h3 {
+  color: #FFAB00;
+}
+
+h2 {
+  color: #0090E7;
+}
+
+a {
+  padding: 5px;
+  text-decoration: none;
+  color: #8F5FE8;
+}
+
+.footer-link {
+  display: inline-block;
+  margin: auto;
+  padding: 0 25px;
+}
+
+.bottom-container {
+  background-color: #191C24;
+  padding: 60px;
+  position: relative;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+.frontImg {
+  width: 100%;
+}
