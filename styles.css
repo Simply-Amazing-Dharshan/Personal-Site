@@ -137,7 +137,8 @@ a {
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
   border-radius: 28px;
-  font-family: Arial;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 400;
   color: #ffffff;
   font-size: 22px;
   background: #0dbf57;
